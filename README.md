@@ -2,6 +2,7 @@
 
 A lightweight Gradio app that fetches NASA’s Astronomy Picture of the Day (APOD) and generates a concise, human-friendly narration using OpenAI. Supports HD images, date selection, graceful handling of videos, and clear error messages.
 
+<img width="2048" height="1110" alt="image" src="https://github.com/user-attachments/assets/7543bb68-f13e-42f3-91e5-d65b51d47277" />
 
 
 ## Features
